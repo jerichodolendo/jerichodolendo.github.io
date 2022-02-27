@@ -1,0 +1,47 @@
+body {
+	background-color: darkolivegreen;
+	margin-left: 450px;
+	margin-right: 450px;
+	margin-top: 25px;
+	color: white;
+	font-family: sans-serif;
+	border-style: outset;
+	border-width: 15px;
+	border-color: green;
+}
+
+.maindiv {
+	background-color: limegreen;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	background-color: olivedrab;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+h2 {
+	background-color: green;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+h4 {
+	margin: 0px;
+	text-align: justify;
+	padding-left: 60px;
+	padding-right: 60px;
+	color: black;
+}
+
+.nomargin {
+	margin-top: 0px;
+}
